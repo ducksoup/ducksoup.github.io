@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lorenzo Porzi / Computer Vision Researcher"
+title                    : "Lorenzo Porzi / Computer Vision and Machine Learning Researcher"
 title_separator          : "-"
 name                     : &name "Lorenzo Porzi"
 description              : &description "Computer Vision and Machine Learning Researcher @ Mapillary"
