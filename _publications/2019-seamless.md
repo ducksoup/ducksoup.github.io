@@ -2,7 +2,7 @@
 title: "Seamless Scene Segmentation"
 collection: publications
 permalink: /publication/2019-seamless
-date: 2019
+date: 2019-06-16
 venue: 'Computer Vision and Pattern Recognition'
 paperurl: 'https://arxiv.org/pdf/1905.01220.pdf'
 ---
