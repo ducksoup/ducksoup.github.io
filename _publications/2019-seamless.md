@@ -2,8 +2,16 @@
 title: "Seamless Scene Segmentation"
 collection: publications
 permalink: /publication/2019-seamless
-date: 20019
+date: 2019
 venue: 'Computer Vision and Pattern Recognition'
 paperurl: 'https://arxiv.org/pdf/1905.01220.pdf'
-citation: 'Porzi, Lorenzo and Rota Bul&ograve;, Samuel and Colovic, Aleksander and Kontschieder, Peter. (2019). &quot;Seamless Scene Segmentation.&quot; <i>CVPR</i>'
 ---
+```
+@InProceedings{Porzi_2019_CVPR,
+author = {Porzi, Lorenzo and Bulo, Samuel Rota and Colovic, Aleksander and Kontschieder, Peter},
+title = {Seamless Scene Segmentation},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
+```
